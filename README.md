@@ -1,9 +1,4 @@
-<h1 align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Jay+Salway;Weaponised+Autism;jaysalway.com;%3E%3A)"
-    alt="Jay Salway Typing Header"
-  />
-</h1>
+
 
 <p align="center">
   <a href="mailto:2512956@leedstrinity.ac.uk"><img src="https://img.shields.io/badge/Uni%20Email-2512956@leedstrinity.ac.uk-0078D4?style=flat&logo=gmail&logoColor=white"/></a>
