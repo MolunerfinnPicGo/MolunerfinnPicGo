@@ -1,10 +1,6 @@
 
 
-<p align="center">
-  <a href="mailto:2512956@leedstrinity.ac.uk"><img src="https://img.shields.io/badge/Uni%20Email-2512956@leedstrinity.ac.uk-0078D4?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="mailto:jay@48bit.net"><img src="https://img.shields.io/badge/Personal%20Email-jay@48bit.net-8A2BE2?style=flat&logo=minutemailer&logoColor=white"/></a>
-  <a href="https://jay.fish"><img src="https://img.shields.io/badge/🌐-Website-0FA36B?style=flat&logo=firefox-browser&logoColor=white"/></a>
-</p>
+
 
 ---
 
